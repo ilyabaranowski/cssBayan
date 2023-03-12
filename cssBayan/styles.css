@@ -66,7 +66,7 @@ h3 {
 }
 
 .accordion-item:active {
-    filter: blur(0.05em);
+    filter: drop-shadow(16px 16px 20px red) invert(75%);
 }
 
 .accordion:hover
